@@ -31,3 +31,7 @@ HTML Code can be found in all pages that are included in the theme. Code Starts 
 <!-- Banner ends-->
 ```
 
+{% hint style="warning" %}
+**Note :** Code start and end may vary based on the page you are editing and its contents so we have given a approximate line numbers. so please do _**check and edit carefully**_
+{% endhint %}
+
