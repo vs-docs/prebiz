@@ -2,7 +2,7 @@
 
 ### Banner HTML Code. {#banner-html-code}
 
-HTML Code can be found in all pages that are included in the theme. Code Starts From Line **160th** to **183th** of each page.
+HTML Code can be found in all pages that are included in the theme. Code Starts From Line **170th** to **194th** of each page.
 
 ```markup
 <!-- Banner starts-->
