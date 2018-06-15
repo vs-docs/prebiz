@@ -14,7 +14,3 @@
 </div>
 ```
 
-{% hint style="warning" %}
-Please do replace **{your\_logo\_path}** with your own logo path / url.
-{% endhint %}
-
