@@ -1,6 +1,6 @@
 # Site Navigation
 
-![](.gitbook/assets/site-menu.png)
+![](.gitbook/assets/site-menu%20%281%29.png)
 
 ![](.gitbook/assets/mobile-menu.png)
 
