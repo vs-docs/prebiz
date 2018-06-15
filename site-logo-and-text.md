@@ -4,7 +4,7 @@
 
 ### Site Logo & Text HTML Code {#site-logo-and-text-html-code}
 
- The below code can be found in all HTML pages that are included with the theme. code will be placed from 73th to 77st line of each page.
+ The below code can be found in all HTML pages that are included with the theme. code will be placed from 68th to 72st line of each page.
 
 ```markup
 <div class="logo-image">
