@@ -6,7 +6,7 @@
 
 ### Site Navigation HTML Code {#site-navigation-html-code}
 
-The below code can be found in all HTML pages that are included with the theme. code will be placed from 82th to 148th line of each page.
+The below code can be found in all HTML pages that are included with the theme. code will be placed from 77th to 159th line of each page.
 
 ```markup
 <ul class="nav navbar-nav underline">
