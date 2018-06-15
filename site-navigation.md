@@ -24,8 +24,24 @@ The below code can be found in all HTML pages that are included with the theme. 
                             id="home-page-4">HOME PAGE V4</a></li>
         </ul>
     </li>
-    <li class=""><a href="about-us-v1.html" title="ABOUT" id="about-page">ABOUT</a></li>
-    <li class=""><a href="services-v1.html" title="SERVICES" id="services">SERVICES</a>
+    <li class=" dropdown "><a href="#" title="ABOUT" id="about" data-toggle="dropdown">ABOUT
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+            <li class=""><a href="about-us-v1.html" title="ABOUT V1" id="about-page">ABOUT
+                V1</a></li>
+            <li class=""><a href="about-us-v2.html" title="ABOUT V2" id="about-page-2">ABOUT
+                V2</a></li>
+        </ul>
+    </li>
+    <li class=" dropdown "><a href="#" title="SERVICES" id="services"
+                              data-toggle="dropdown">SERVICES <span
+            class="caret"></span></a>
+        <ul class="dropdown-menu">
+            <li class=""><a href="services-v1.html" title="SERVICE V1"
+                            id="services-page">SERVICE V1</a></li>
+            <li class=""><a href="services-v2.html" title="SERVICE V2"
+                            id="services-page-2">SERVICE V2</a></li>
+        </ul>
     </li>
     <li class=" dropdown "><a href="#" title="PORTFOLIO" id="portfolio-page"
                               data-toggle="dropdown">PORTFOLIO <span
